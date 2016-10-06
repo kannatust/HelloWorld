@@ -3,4 +3,3 @@ Avab URL-i ja scrape'ib lehelt rida elemente (hind, rating, riik, viinamarjad, n
 Leht, mis kuvab andmebaasi sisu.
 Leht, mis lubab andmebaasis olevat sisu muuta. Leht konfigureeritakse basicAuth taha.
 Leht, kuhu saab automaatselt scrape'imiseks ette anda URLi.
--
